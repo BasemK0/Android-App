@@ -112,3 +112,4 @@ export async function GET() {
 | Date | Changes |
 |------|---------|
 | Initial | Template created with base setup |
+| 2026-02-27 | Android Kotlin app built in `android-app/` directory — full Jetpack Compose rebuild of FaceVerse Editor |
